@@ -1,4 +1,4 @@
 # buddy-test
 
 
-raz dwa
+oki doki
